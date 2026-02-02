@@ -49,3 +49,8 @@ requests
 groq
 gtts
 python-dotenv
+
+streamlit==1.53.1
+streamlit-webrtc==0.62.3
+aiortc==1.5.0
+aioice==0.9.0
