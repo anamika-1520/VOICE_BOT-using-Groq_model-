@@ -1,0 +1,51 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+langchain_google_genai
+dotenv
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+huggingface_hub
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+langchain-community 
+gradio
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+langchain-groq
+
+fastapi
+uvicorn
+openai
+pydantic
+requests
+streamlit
+speechrecognition
+gtts
+requests
+streamlit
+streamlit-webrtc
+av
+numpy
+scipy
+requests
+groq
+gtts
+python-dotenv
