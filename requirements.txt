@@ -37,7 +37,14 @@ openai
 pydantic
 requests
 streamlit
-speechrecognition
+streamlit_webrtc
 gtts
 requests
-pyaudio
+dotenv
+av
+numpy
+tempfile
+os
+wave 
+time
+
