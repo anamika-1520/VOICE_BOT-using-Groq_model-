@@ -91,7 +91,7 @@ if ctx.audio_processor:
 
             # -------- BACKEND CALL --------
             response = requests.post(
-                "http://127.0.0.1:8000/ask",
+                "https://voice-bot-using-groq-model-2.onrender.com/ask",
                 json={"question": user_text}
             )
 
@@ -104,4 +104,5 @@ if ctx.audio_processor:
             tts.save("reply.mp3")
             st.audio("reply.mp3")
 ### this is the end of the code ###
+
 ### i             
